@@ -1,3 +1,3 @@
-# Bulk-Text-Entry
-This is a utility that allows you to write words or phrases to a text file in bulk with or without a GUI.
-That's it.
+# EntryWave
+
+EnteryWave is a CLI or GUI utility that repeatedly adds text into a text file until a specified line count is reached.
